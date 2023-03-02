@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#frame1{
+    margin: 0;
+    text-align: center;
+    background: url("images/frame1-bcg.png");
+    background-size: cover;
+    height: 350px;
+    color: #FBFE5E;
+}
+
+#blurb{
+    padding-top: 150px;
+    margin-bottom: 0px;
+}
+
+
+#petrograd-title{
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    padding: 1px 1px 10px 1px;
+    width: 267px;
+    height: 29px;
+    border-radius: 4px;
+
+    background: #D70001;
+}
+
+#line{
+    margin-top: -6px;
+}
+
+#petrograd-line{
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 412px;
+    height: 23px;
+    
+    padding-top: 10px;
+    background: #D70001;
+    border-radius: 4px;
+}
+
+
+#frame2{
+    text-align: center;
+    background: #D70001;
+    color: #FBFE5E;
+    margin-top: 0;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#Rev{
+    width: 300px;
+}
+
+#insurrection{
+    width: 300px;
+}
+
+#prolet{
+    width: 300px;
+}
+
+#img-contain{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+#frame3{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: #B9DCA8;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 6px 0px #1D3557;
+}
+
+#guide-credentials{
+    padding-top: 50px;
+    padding-right: 10px;
+    width: 350px;
+}
+
+#top3{
+    padding-top: 30px;
+    margin-top: 0;
+    padding-bottom: 20px;
+}
+
+.circle{
+    border-radius: 50%;
+}
+
+#frame3-container{
+    display: flex;
+    justify-content: center;
+}
+
